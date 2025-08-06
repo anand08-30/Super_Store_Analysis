@@ -23,7 +23,7 @@ The Superstore dataset contains information about orders, customers, products, r
 - **Monthly & Yearly Trends:** Detecting seasonal trends and growth over time.
 - **Customer Segmentation:** Evaluating the performance of different customer groups.
 - **Shipping Insights:** Analyzing ship modes and delivery times.
-- **Geographical Performance:** Insights based on states and cities.
+- **Geographical Performance:** Insights based on States and Cities .
 
 ---
 
